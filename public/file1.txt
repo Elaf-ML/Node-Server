@@ -1,0 +1,2 @@
+Welcome to the Text Content Page!
+This is a sample text file being served by Node.js.
